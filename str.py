@@ -22,3 +22,5 @@ print(msg.upper())
 print(msg.find("o"))
 print(msg.replace('good person','fantastic individual\n'))
 print('good' in msg)
+
+
